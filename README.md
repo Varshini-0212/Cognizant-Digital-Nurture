@@ -36,7 +36,7 @@ Java FSE
 │   ├── Module 1 - HTML5
 │   ├── Module 1 - JavaScript
 │   ├── Module 2 - ANSI SQL Using MySQL
-│   ├── Module 3 - Core Java
+│   └── Module 3 - Core Java
 │
 └── Deepskilling
     ├── Module 1 - Design Patterns and Principles
